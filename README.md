@@ -1,6 +1,6 @@
 ## Hideable Widget
 
-<img src="https://github.com/sameteyisan/hideable_widget/blob/main/sample.gif"  width="200">
+![showcase](https://github.com/sameteyisan/hideable_widget/blob/main/sample.gif)
 
 First, create a scroll controller.
 
