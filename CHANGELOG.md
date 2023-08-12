@@ -5,3 +5,7 @@
 ## 1.0.1
 
 * Read.me changed.
+
+## 1.0.2
+
+* Read.me changed.

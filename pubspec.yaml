@@ -1,6 +1,6 @@
 name: hideable_widget
 description: Hideable Widget package helps to make any static widget hideable while scrolling.
-version: 1.0.1
+version: 1.0.2
 homepage: https://github.com/sameteyisan/hideable_widget.git
 
 environment:
