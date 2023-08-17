@@ -1,7 +1,8 @@
 ## Hideable Widget
 
-![showcase](https://github.com/sameteyisan/hideable_widget/blob/main/sample.gif)
 
+<img  src="https://github.com/sameteyisan/hideable_widget/blob/main/sample.gif?raw=true"  width="280">
+ 
 First, create a scroll controller.
 
 ```dart
