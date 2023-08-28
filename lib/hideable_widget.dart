@@ -75,6 +75,7 @@ class _HideableWidgetState extends State<HideableWidget> {
   }
 
   void listener() {
+    getSizeAndPosition();
     if (widget.scrollController.position.userScrollDirection ==
         ScrollDirection.reverse) {
       setState(() {
